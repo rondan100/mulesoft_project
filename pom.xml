@@ -40,7 +40,7 @@
 						<workers>${cl.workers}</workers>
 						<workerType>${cl.worker.type}</workerType>
 						<region>${cl.region}</region>
-						<businessGroup>${cl.businessgroup}</businessGroup>
+<!-- 						<businessGroup>${cl.businessgroup}</businessGroup> -->
 						<businessGroupId>${cl.businessgroup.id}</businessGroupId>
 						<properties>
 							<anypoint.platform.client_id>792bfdcd2a1c4bc3ba486ccad0dfe7b1</anypoint.platform.client_id>
