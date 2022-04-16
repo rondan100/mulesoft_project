@@ -41,6 +41,7 @@
 						<workerType>${cl.worker.type}</workerType>
 						<region>${cl.region}</region>
 						<businessGroup>${cl.businessgroup}</businessGroup>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
